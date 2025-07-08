@@ -1,1 +1,1 @@
-console.log("branch new ");
+console.log("commit 2 ");
